@@ -92,12 +92,12 @@ const question02 = [
   question: "How can a datatype be declared to be a constant type?",
   answer: [
       {text: "var", wrong: false },
-      {text: "const", correct: true },
+      {text: "const", correct: true };
       text: "let", wrong: false }
 
   ]
 
-},
+}
 
 const question03 = " How to stop an interval timer in Javascript?"
 answer: [ 
