@@ -5,6 +5,11 @@ const questionElement = document.getElementById('question')
 const answerButtonsElement= document.getElementById('answer-buttons')
 const questionContainerElement = document.getElementById('question-container')
 const startButton = document.getElementById('start-btn')
+var finalScore= document.querySelector("first place")
+var finalScore= document.querySelector("second place")
+var finalScore= document.querySelector("third place")
+
+
 
 startButton.addEventListener('click',startGame)
 function startGame() {
@@ -107,6 +112,12 @@ answer: [
 
 
 ]
+var user = {
+    firstPlace: firstplace.value.trim(),
+    SecondPlace: SecondPlace.value.trim(),
+    thirdPlace: thirdPlace.value.trim(),
+}
+
 
 
 
