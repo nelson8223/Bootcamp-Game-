@@ -1,7 +1,7 @@
 ### Bootcamp Game
 This is a game that challenges your knowledge and comprehension of CSS, JavaScript, and HTML.
 
- ###Table of Contents
+ ### Table of Contents
 
 ## Description
 ## Getting Started
